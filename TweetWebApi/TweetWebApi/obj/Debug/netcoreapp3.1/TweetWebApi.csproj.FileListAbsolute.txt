@@ -1,0 +1,308 @@
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.exe
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.deps.json
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.runtimeconfig.json
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.pdb
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.AssemblyInfo.cs
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\staticwebassets\TweetWebApi.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\staticwebassets\TweetWebApi.StaticWebAssets.xml
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\TweetWebApi.styles.css
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.csproj.CopyComplete
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.dll
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.pdb
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.genruntimeconfig.cache
+C:\Users\HP\Desktop\Dont net training\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.Views.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.exe
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.deps.json
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.runtimeconfig.json
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.runtimeconfig.dev.json
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.pdb
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.Views.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.csproj.AssemblyReference.cache
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.AssemblyInfoInputs.cache
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.AssemblyInfo.cs
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.csproj.CoreCompileInputs.cache
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\staticwebassets\TweetWebApi.StaticWebAssets.Manifest.cache
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\staticwebassets\TweetWebApi.StaticWebAssets.xml
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\TweetWebApi.styles.css
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.csproj.CopyComplete
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.pdb
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.genruntimeconfig.cache
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.IO.Hashing.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-7\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.exe
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.deps.json
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.runtimeconfig.json
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.runtimeconfig.dev.json
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.pdb
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.Views.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.IO.Hashing.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.csproj.AssemblyReference.cache
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.AssemblyInfoInputs.cache
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.AssemblyInfo.cs
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\staticwebassets\TweetWebApi.StaticWebAssets.Manifest.cache
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\staticwebassets\TweetWebApi.StaticWebAssets.xml
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\TweetWebApi.styles.css
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.csproj.CopyComplete
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.pdb
+C:\Users\Deepmala Gupta\OneDrive\Desktop\Case-Study-7-TweetApp-main\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.genruntimeconfig.cache
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.exe
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.deps.json
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.runtimeconfig.json
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.runtimeconfig.dev.json
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.pdb
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\TweetWebApi.Views.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.IO.Hashing.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.AssemblyInfoInputs.cache
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.AssemblyInfo.cs
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\staticwebassets\TweetWebApi.StaticWebAssets.Manifest.cache
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\staticwebassets\TweetWebApi.StaticWebAssets.xml
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\TweetWebApi.styles.css
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.csproj.CopyComplete
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.dll
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.pdb
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.genruntimeconfig.cache
+C:\Users\Deepmala Gupta\OneDrive\Desktop\.Net Training\Case-Study-7-TweetApp-main\TweetWebApi\TweetWebApi\obj\Debug\netcoreapp3.1\TweetWebApi.csproj.AssemblyReference.cache

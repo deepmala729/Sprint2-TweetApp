@@ -1,0 +1,77 @@
+<head>
+    <script>
+        function verifyPassword() {
+            var pw = document.getElementById("floatingPassword").value;
+            //check empty pssword field
+            if (floatingPassword == "") {
+                document.getElementById("message").innerHTML = "**Fill the password please!";
+                return false;
+            }
+        }
+
+    </script>
+</head>
+
+
+
+<body>
+    <div class="py-5">
+        <div class="row">
+            <div class="col-md-6 mx-auto">
+                <div class="card rounded-0">
+                    <div class="Card-header">
+                        <div class="mx-auto" style="width: 200px;">
+                            <h3 class="mb-0">Register</h3>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="form" style="background-color: #d4eaf4;">
+                            <div class="col-md-12">
+                                <label class="form-label" for="floatingInput">FirstName</label>
+                                <input type="text" class="form-control" id="floatingInput"
+                                    [(ngModel)]="registerUserData.firstName" placeholder="Please enter First Name">
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label" for="floatingInput">LastName</label>
+                                <input type="text" class="form-control" id="floatingInput"
+                                    [(ngModel)]="registerUserData.lastName" placeholder="Please enter Last Name">
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label" for="floatingInput">Mail Id</label>
+                                <input type="email" class="form-control" id="floatingInput"
+                                    [(ngModel)]="registerUserData.email" placeholder="abc@gmail.com">
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label" for="floatingInput">Login Id</label>
+                                <input type="text" class="form-control" id="floatingInput"
+                                    [(ngModel)]="registerUserData.loginId" placeholder="Enter your loginId">
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label" for="floatingPassword">Password</label>
+                                <input type="password" class="form-control" id="floatingPassword"
+                                    [(ngModel)]="registerUserData.password" placeholder="123@Pt0">
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label" for="floatingPassword">Confirm Password</label>
+                                <input type="password" class="form-control" id="floatingPassword"
+                                    [(ngModel)]="registerUserData.confirmPassword" placeholder="123@Pt0">
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label" for="floatingPassword">Contact Number</label>
+                                <div>
+                                    <input type="tel" class="form-control" id="floatingInput"
+                                        [(ngModel)]="registerUserData.contactNumber" placeholder="2456789654" />
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-check"></div>
+                            </div>
+                            <button class="btn btn-lg btn-primary" (click)="registerUser()"
+                                type="submit">Register</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>

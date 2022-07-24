@@ -1,0 +1,15 @@
+.table mt-3
+{
+    margin-top: 20px;
+    border-bottom: 1px solid rgb(202, 199, 199);
+}
+.table mt-3 thead{
+    border: 1px solid black;
+}
+.table mt-3 tbody{
+    border-bottom: 1px solid black;
+}
+.btn-lg btn-primary{
+   
+    border-left: 2px;
+}

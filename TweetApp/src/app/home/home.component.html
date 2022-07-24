@@ -1,0 +1,167 @@
+<html>
+
+<head>
+  <title>Tweet App</title>
+  <link rel="stylesheet" type="text/css" href="home.component.css">
+</head>
+
+<body>
+  <div class="layout">
+    <div class="layout__left-sidebar">
+
+      <div class="sidebar-menu">
+        <img src="./assets/t.logo.png" class="brand" style="width: 100px; height:100px;">
+        <div class="sidebar-menu__item--active">
+          <img src="./assets/home.svg" class="sidebar-menu__item-icon" />
+          Home
+        </div>
+        <div class="sidebar-menu__item">
+          <img src="./assets/messages.svg" class="sidebar-menu__item-icon" />
+          <a href="tweet">My Tweets</a>
+        </div>
+        <div class="sidebar-menu__item">
+          <img src="./assets/lists.svg" class="sidebar-menu__item-icon" />
+          <a href="dashboard">My Followers</a>
+        </div>
+        <div class="sidebar-menu__item">
+          <img src="./assets/profile.svg" class="sidebar-menu__item-icon" />
+          <a href="account">Profile</a>
+        </div>
+        <div class="tweet__btn">
+          <button routerLink="/tweet" class="btn btn-lg btn-primary" type="submit">Tweet</button>
+        </div>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <div class="footer">
+          
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div *ngFor="let tweet of tweets" >
+    <div class="layout__main">
+      <div class="tweet">
+        <img class="tweet__author-logo" src="./assets/{{tweet.authorLogo}}" />
+        <div class="tweet__main">
+          <div class="tweet__header">
+            <div class="tweet__author-name">
+              {{tweet.authorName}}
+            </div>
+            <div class="tweet__author-slug">
+              {{tweet.authorSlug}}
+            </div>
+            <div class="tweet__publish-time">
+              {{tweet.tweetTime}}
+            </div>
+          </div>
+          <div class="tweet__content">
+            {{tweet.tweetDescription}}
+            <img class="tweet__img" src="{{tweet.tweetImage}}">
+          </div>
+          <div>
+            <p (click)="plus()"
+              style="margin-right:10px; width: 30px; color: red; height:20px; font-size: 40px; cursor: pointer; float: left;">
+              &hearts;</p>
+            <i class="badge bg-danger" style="float: left; margin-top: 22px; margin-left:0px;">{{quantity}}</i>
+            <i class="fa fa-share" routerLink="sharetweet"
+              style="float: left; margin-top: 22px; margin-left:30px; width: 25px; font-size: 25px; height:30px; cursor: pointer;"></i>
+          </div>
+        </div>
+      </div>    
+    </div>
+  </div>
+</div>
+    <div class="layout__right-sidebar-container">
+
+      <div class="layout__right-sidebar">
+        <div class="form-group">
+          <input type="text" [(ngModel)]="searchTerm" (keyup)="search($event)" placeholder="search users by there Name">
+        </div>
+        <span class="fas fa-search search-icon"
+          style="position: absolute; z-index: 15; left:85%; top:30px; color:blue"></span>
+        <div class="trends-for-you">
+          <div class="trends-for-you__block">
+            <div class="trends-for-you__heading">
+              Trendes for you
+            </div>
+          </div>
+          <div class="trends-for-you__block">
+            <div class="trends-for-you__meta-information">
+              Trending in India
+            </div>
+            <div class="trends-for-you__trend-name">
+              #iPhone12
+            </div>
+            <div class="trends-for-you__meta-information">
+              155k Tweets
+            </div>
+          </div>
+          <div class="trends-for-you__block">
+            <div class="trends-for-you__meta-information">
+              Trending in India
+            </div>
+            <div class="trends-for-you__trend-name">
+              #iPhone12
+            </div>
+            <div class="trends-for-you__meta-information">
+              155k Tweets
+            </div>
+          </div>
+          <div class="trends-for-you__block">
+            <div class="trends-for-you__meta-information">
+              Trending in India
+            </div>
+            <div class="trends-for-you__trend-name">
+              #iPhone12
+            </div>
+            <div class="trends-for-you__meta-information">
+              155k Tweets
+            </div>
+          </div>
+          <div class="trends-for-you__block">
+            <div class="trends-for-you__meta-information">
+              Trending in India
+            </div>
+            <div class="trends-for-you__trend-name">
+              #iPhone12
+            </div>
+            <div class="trends-for-you__meta-information">
+              155k Tweets
+            </div>
+          </div>
+          <div class="trends-for-you__block">
+            <div class="trends-for-you__meta-information">
+              Trending in India
+            </div>
+            <div class="trends-for-you__trend-name">
+              #Amazon
+            </div>
+            <div class="trends-for-you__meta-information">
+              200k Tweets
+            </div>
+          </div>
+          <div class="trends-for-you__block">
+            <div class="trends-for-you__meta-information">
+              Trending in India
+            </div>
+            <div class="trends-for-you__trend-name">
+              #iPhone12
+            </div>
+            <div class="trends-for-you__meta-information">
+              155k Tweets
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</body>
+
+</html>

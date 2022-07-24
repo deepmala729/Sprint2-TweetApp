@@ -1,0 +1,26 @@
+<legend style="color:red;">User Details</legend>
+<div class="container">
+    <table class="table mt-3">
+        <thead>
+            <tr>
+
+                <th scope="col">First Name</th>
+                <th scope="col">Last Name</th>
+                <th scope="col">E-Mail</th>
+
+
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let user of users; let i=index">
+
+                <td>{{user.firstName}}</td>
+                <td>{{user.lastName}}</td>
+                <td>{{user.email}}</td>
+
+
+            </tr>
+        </tbody>
+    </table>
+</div>
